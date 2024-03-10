@@ -1,0 +1,14 @@
+C:\Users\29nei\source\repos\niceui\niceui\bin\Debug\niceui.exe.config
+C:\Users\29nei\source\repos\niceui\niceui\bin\Debug\niceui.exe
+C:\Users\29nei\source\repos\niceui\niceui\bin\Debug\niceui.pdb
+C:\Users\29nei\source\repos\niceui\niceui\obj\Debug\niceui.csproj.AssemblyReference.cache
+C:\Users\29nei\source\repos\niceui\niceui\obj\Debug\niceui.Form1.resources
+C:\Users\29nei\source\repos\niceui\niceui\obj\Debug\niceui.Properties.Resources.resources
+C:\Users\29nei\source\repos\niceui\niceui\obj\Debug\niceui.csproj.GenerateResource.cache
+C:\Users\29nei\source\repos\niceui\niceui\obj\Debug\niceui.csproj.CoreCompileInputs.cache
+C:\Users\29nei\source\repos\niceui\niceui\obj\Debug\niceui.exe
+C:\Users\29nei\source\repos\niceui\niceui\obj\Debug\niceui.pdb
+C:\Users\29nei\source\repos\niceui\niceui\obj\Debug\niceui.frmAnalytics.resources
+C:\Users\29nei\source\repos\niceui\niceui\obj\Debug\niceui.frmDashboard.resources
+C:\Users\29nei\source\repos\niceui\niceui\obj\Debug\niceui.frmThermoProperties.resources
+C:\Users\29nei\source\repos\niceui\niceui\obj\Debug\niceui.frmMonitor.resources
